@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # For deploy
 
 ```
-ng build --prod --base-href "https://maes95.github.io/"
+ng build --prod
 ngh --dir=dist/ --branch=master --cname=maes.dev
 ```
